@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://www.example.com#ai-visibility-service",
+  "serviceType": "AI Visibility & LLMO Optimization",
+  "name": "AI Visibility Service (LLMO) \u2014 Get Cited by AI Assistants",
+  "url": "https://www.etsy.com/listing/REPLACE-WITH-YOUR-LISTING-ID",
+  "image": "https://www.example.com/logo.png",
+  "description": "Done-for-you AI visibility service that structures your business data for AI search engines and publishes to trusted platforms for faster citations.",
+  "areaServed": {
+    "@type": "Country",
+    "name": "United States"
+  },
+  "provider": {
+    "@type": "Organization",
+    "name": "Your Business Name",
+    "url": "https://www.example.com",
+    "logo": "https://www.example.com/logo.png",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "sales",
+      "email": "hello@example.com"
+    },
+    "sameAs": [
+      "https://www.etsy.com/listing/REPLACE-WITH-YOUR-LISTING-ID",
+      "https://github.com/REPLACE-USER/REPO",
+      "https://medium.com/@REPLACE-USER/",
+      "https://www.linkedin.com/in/REPLACE-USER/",
+      "https://twitter.com/REPLACE-USER"
+    ]
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://www.etsy.com/listing/REPLACE-WITH-YOUR-LISTING-ID",
+    "priceCurrency": "USD",
+    "price": "REPLACE-WITH-PRICE",
+    "availability": "https://schema.org/InStock",
+    "validFrom": "2025-09-05"
+  }
+}

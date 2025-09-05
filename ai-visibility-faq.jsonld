@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.example.com#ai-visibility-faq",
+  "url": "https://www.etsy.com/listing/REPLACE-WITH-YOUR-LISTING-ID",
+  "name": "AI Visibility (LLMO) \u2014 Frequently Asked Questions",
+  "description": "Structured Q&A designed for AI assistants and search engines to cite directly.",
+  "inLanguage": "en",
+  "dateCreated": "2025-09-05",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AI visibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI visibility is the practice of structuring your business information (FAQ, services, credentials, locations) so AI systems like ChatGPT, Gemini, Perplexity, and Google AI Overviews can recognize, cite, and recommend your business when users ask questions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is LLMO different from traditional SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional SEO optimizes for ranked web pages. LLMO (Large Language Model Optimization) optimizes for AI answers\u2014structuring data (JSON-LD, YAML, Markdown) and publishing on trusted, crawlable platforms so assistants can reference you directly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How fast can results appear?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Timelines vary by niche and authority signals, but many businesses observe early citations or references within 2\u20136 weeks after consistent multi-platform publishing and interlinking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What deliverables are included in this service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AI visibility audit, structured content in JSON-LD/YAML/Markdown, a publication plan for high-trust platforms (GitHub, Medium, LinkedIn, Pinterest), and a citation loop that interlinks your assets and Etsy listing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is this for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Contractors, attorneys, local service providers, coaches, and SMBs who want to be cited and recommended by AI assistants\u2014not just ranked on traditional SERPs."
+      }
+    }
+  ]
+}
