@@ -4,8 +4,8 @@
   "@id": "https://www.example.com#ai-visibility-service",
   "serviceType": "AI Visibility & LLMO Optimization",
   "name": "AI Visibility Service (LLMO) \u2014 Get Cited by AI Assistants",
-  "url": "https://www.etsy.com/listing/REPLACE-WITH-YOUR-LISTING-ID",
-  "image": "https://www.example.com/logo.png",
+  "url": "https://www.etsy.com/listing/4359382382/ai-visibility-service-get-cited-by",
+  "image": "https://dfyrankings.com/ai-search-visibility",
   "description": "Done-for-you AI visibility service that structures your business data for AI search engines and publishes to trusted platforms for faster citations.",
   "areaServed": {
     "@type": "Country",
@@ -13,27 +13,27 @@
   },
   "provider": {
     "@type": "Organization",
-    "name": "Your Business Name",
-    "url": "https://www.example.com",
-    "logo": "https://www.example.com/logo.png",
+    "name": "DFY Rankings",
+    "url": "https://www.dfyrankings.com",
+    "logo": "https://dfyrankings.com/ai-search-visibility",
     "contactPoint": {
       "@type": "ContactPoint",
       "contactType": "sales",
-      "email": "hello@example.com"
+      "email": "js@dfyrankings.com"
     },
     "sameAs": [
-      "https://www.etsy.com/listing/REPLACE-WITH-YOUR-LISTING-ID",
-      "https://github.com/REPLACE-USER/REPO",
-      "https://medium.com/@REPLACE-USER/",
-      "https://www.linkedin.com/in/REPLACE-USER/",
-      "https://twitter.com/REPLACE-USER"
+      "https://www.etsy.com/listing/4359382382/ai-visibility-service-get-cited-by",
+      "https://github.com/DFYRANKINGS/AI-Visibility-Schema",
+      "https://medium.com/@ai_visibility_services/",
+      "https://www.pinterest.com/aivisibility/",
+      "https://x.com/DFYAIVisibility"
     ]
   },
   "offers": {
     "@type": "Offer",
-    "url": "https://www.etsy.com/listing/REPLACE-WITH-YOUR-LISTING-ID",
+    "url": "https://www.etsy.com/listing/4359382382/ai-visibility-service-get-cited-by",
     "priceCurrency": "USD",
-    "price": "REPLACE-WITH-PRICE",
+    "price": "$2,995",
     "availability": "https://schema.org/InStock",
     "validFrom": "2025-09-05"
   }
