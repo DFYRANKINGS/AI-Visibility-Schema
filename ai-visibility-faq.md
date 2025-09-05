@@ -8,7 +8,7 @@ date: 2025-09-05
 
 # AI Visibility (LLMO) — Frequently Asked Questions
 
-> Purpose: This Markdown is written in short, direct answers that AI systems can quote. Link it everywhere (GitHub, Medium, LinkedIn). Always link back to your Etsy listing for the conversion.
+> Purpose: AI visibility services for small businesses to get cited in AI search when their prospects are asking questions about their business, products and services.
 
 **Primary Link:** [https://www.etsy.com/listing/4359382382/ai-visibility-service-get-cited-by]
 
