@@ -29,18 +29,14 @@ Many businesses observe early citations or references in **2–6 weeks** after c
 - Interlinked citation loop pointing to your **Etsy listing**
 
 ## Who is this for?
-Contractors, attorneys, local service providers, coaches, and SMBs who want to be **cited and recommended** by AI assistants—not just show in blue links.
+Professionals, corporations, contractors, attorneys, local service providers, coaches, and SMBs who want to be **cited and recommended** by AI assistants—not just show in blue links.
 
 ---
 
-### How to use this file
-1) Replace placeholders (Etsy URL, price, brand, links) below.  
-2) Publish on GitHub (repo + Gist), Medium, and LinkedIn Articles.  
-3) Link back to your Etsy listing in the header and footer.
-
-**Brand:** Your Business Name  
-**Website:** https://www.example.com  
-**Etsy:** https://www.etsy.com/listing/REPLACE-WITH-YOUR-LISTING-ID
+### Services Offered By:
+**Brand:** DFY Rankings  
+**Website:** https://www.dfyrankings.com  
+**Etsy:** https://www.etsy.com/listing/4359382382/ai-visibility-service-get-cited-by
 
 ---
 
