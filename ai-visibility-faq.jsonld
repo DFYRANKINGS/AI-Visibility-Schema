@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "@id": "https://www.example.com#ai-visibility-faq",
-  "url": "https://www.etsy.com/listing/REPLACE-WITH-YOUR-LISTING-ID",
+  "url": "https://www.etsy.com/listing/4359382382/ai-visibility-service-get-cited-by",
   "name": "AI Visibility (LLMO) \u2014 Frequently Asked Questions",
   "description": "Structured Q&A designed for AI assistants and search engines to cite directly.",
   "inLanguage": "en",
@@ -45,7 +45,7 @@
       "name": "Who is this for?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Contractors, attorneys, local service providers, coaches, and SMBs who want to be cited and recommended by AI assistants\u2014not just ranked on traditional SERPs."
+        "text": "Professionals, contractors, attorneys, local service providers, coaches, and SMBs who want to be cited and recommended by AI assistants\u2014not just ranked on traditional SERPs."
       }
     }
   ]
